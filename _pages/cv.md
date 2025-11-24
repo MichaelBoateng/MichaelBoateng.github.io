@@ -1,11 +1,12 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+nav_order: 1
+nav_title: CV
+cv_pdf: https://www.linkedin.com/in/mkabo
+description: Comprehensive curriculum vitae showcasing my academic background, research experience, and professional achievements in power systems optimization and machine learning.
 toc:
   sidebar: left
 ---

@@ -1,11 +1,16 @@
 ---
 layout: page
-title: project 6
+title: Automated Prototype Named Strongest Senior-Year Project at Commencement
+institution: Ashesi University, Accra, Ghana
+date: Jul 2022
 description: a project with no image
-img:
-importance: 4
-category: fun
+img: assets/img/image6.jpg
+redirect: https://www.youtube.com/watch?v=khQmykFBtg4&t=1s
+importance: 6
+category: Institutional Newsletters
 ---
+
+[CyberForce Competition](https://cyberforce.energy.gov/cyberforce-competition/){:target="_blank"} | [SEED Journal](https://journal.ashesi.edu.gh/index.php/seed/issue/view/1/7){:target="_blank"}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

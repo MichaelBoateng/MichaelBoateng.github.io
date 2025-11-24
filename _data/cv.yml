@@ -2,96 +2,141 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Michael A. Boateng
+    - name: Address
+      value: 100 10th St NW, Atlanta, GA 30309
+    - name: Email
+      value: mboateng6@gatech.edu
+    - name: Phone
+      value: 1-706-474-2036
+    - name: LinkedIn
+      value: linkedin.com/in/mkabo
+    - name: GitHub
+      value: https://github.com/MichaelBoateng
+    - name: ORCID
+      value: https://orcid.org/0009-0008-9564-8104
     - name: Languages
-      value: English, German
+      value: English, Sign Language, C++, MATLAB, PHP, MySQL, HTML, CSS, R, Python, Julia
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy (Ph.D.)
+      institution: Georgia Institute of Technology, Atlanta, GA
+      year: Aug 2023 – Jun 2028
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Electrical and Computer Engineering
+        - Graduate Research Assistant – AI Institute for Advances in Optimization (AI4OPT) | Energy Division
+        - Supervisors Prof. Pascal Van Hentenryck and Prof. Daniel Molzahn
+        - External Mentors Dr. Russell Bent (LANL) and Prof. Parikshit Pareek (IIT Roorkee)
+    - title: Master of Science (MS.)
+      institution: Georgia Institute of Technology, Atlanta, GA
+      year: Aug 2023 – May 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Electrical and Computer Engineering. CGPA 3.80/4.0
+        - Minor Industrial and Systems Engineering (ISyE) – Regression Analysis, Deterministic & Convex Optimization
+        - Coursework Power Systems (Protection, Cybersecurity, Operation & Control), Linear Systems & Control
+    - title: Bachelor of Science (B.Sc.)
+      institution: Ashesi University, Accra, Ghana
+      year: Sep 2018 – Jun 2022
+      description:
+        - Electrical and Electronics Engineering. Cum laude
+        - B.Sc. Project Overall Best Thesis – Engineering Department [Published in IEEE Xplore| Citations 10]
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Consultant
+      institution: Electric Reliability Council of Texas (ERCOT), Austin, TX
+      year: Oct 2025 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Risk Assessment of Texas Grid Using AC SCOPF
+        - Collaborating with ERCOT engineers on machine learning approaches for Security-Constrained AC Optimal Power Flow
+        - Developing self-supervised primal-dual learning framework for AC non-linearities in preventive SCOPF pipelines
+        - Enhancing grid reliability under large-scale system conditions (1000+ buses)
+    - title: Graduate Research Intern
+      institution: Los Alamos National Laboratory (LANL), Los Alamos, NM
+      year: May 2025 – Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - End-to-End Learning for AC Feasibility Restoration in DCOPF
+        - Designing LMP-preserving DCOPF-ACPF pipeline with AC prices aligned with DC outcomes
+        - Implementing implicit-function gradients for end-to-end training in Python with NumPy/SciPy, PyTorch, CVXPY
+        - Achieved 90% runtime reduction compared to conventional approaches
+    - title: Graduate Research Intern
+      institution: Los Alamos National Laboratory (LANL), Los Alamos, NM
+      year: Sept 2024 – Aug 2025
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Exploring DCOPF and ACPF Formulations for AC Feasibility
+        - Engineered unified DCOPF→ACPF recovery pipeline combining four loss-aware DC models
+        - Evaluated on 10,000+ stochastic dispatch scenarios across large-scale power systems
+        - Reduced Newton-Raphson convergence iterations by ~50% and achieved 75% lower mean absolute error
+    - title: Graduate Research Assistant
+      institution: AI Institute for Advances in Optimization (AI4OPT), Atlanta, GA
+      year: Apr 2025 – Oct 2025
+      description:
+        - Volt-VAR Optimization for Large-Scale Power Systems
+        - Designed transmission-scale Volt/VAR Optimization framework co-optimizing OLTC tap ratios and capacitor-bank modules
+        - Formulated operations-aligned objectives preserving economic dispatch and integrating ACOPF/market references
+        - Extensive review of transmission-scale Volt/VAR and discrete ACOPF methodologies
+    - title: Graduate Research and Teaching Assistant
+      institution: Georgia Institute of Technology, Atlanta, GA
+      year: Oct 2024 – Present
+      description:
+        - Design Fundamentals (ECE 3011), Digital Design Lab (ECE 2031)
+        - Introduced Electronic Design Automation (EDA) as alternative to Eagle and Altium
+        - Leading development of MPower Boards (MPBs) for enhanced educational and research applications
+        - Advancing commercialization with Georgia Tech's Create-X program
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - LANL Grid Science Winter School & Conference Travel Grant Winner
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Argonne Department of Energy's CyberForce® Competition Travel Grant Winner
+        - International Solid-State Circuits Conference Travel Grant Winner (1 of 4, 1st Year ECE PhDs)
+        - National Society of Black Engineers Conference NSBE50 Scholarship
+    - year: 2022
+      items:
+        - Silver Medalist Poster Presentation, International Genetically Engineered Machine Competition, France
+    - year: 2019
+      items:
+        - 1st Place Engineering Poster Presentation, Statistics Poster Session
+        - 1st Place Innovation Research Competition, Royal Crown Packaging Limited
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - M.A. Boateng, R. Bent, S. Misra, P. Park, P. Van Hentenryck, and D.K. Molzahn, "Towards AC Feasibility of DCOPF Dispatch," Submitted to 24th Power Systems Computation Conference (PSCC), 2025.
+    - S. Tong, M.A. Boateng, M. Tanneau, and P. Van Hentenryck, "Volt/VAR Optimization in Transmission Networks with Discrete-Control Devices," Submitted to 24th Power Systems Computation Conference (PSCC), 2025.
+    - M.A. Boateng, G. Gauderman, and B. Ashebo, "Dynamic Error Correction in Current Transformer Merging Units," Abstract Submitted to 2026 Georgia Tech Protective Relaying Conference, 2025.
+    - Asiamah, R., Talkington, S., Boateng, M., Vanin, M., Geth, F., & Molzahn, D., "Classifying Reactive Power Control Laws of Behind-the-Meter Solar Photovoltaic Inverters," IEEE Kansas Power and Energy Conference (KPEC), 2025.
+
+- title: Leadership and Activities
+  type: time_table
+  contents:
+    - title: President
+      institution: Fellowship of Christian Graduate Students, GA, USA
+      year: Jul 2025 – Present
+    - title: Vice President
+      institution: Georgia Tech Ghanaian Students Association, GA, USA
+      year: Jun 2025 – Present
+    - title: Chair, Special Projects and Programs
+      institution: African Graduate Students Committee, GA, USA
+      year: May 2025 – Present
+    - title: Co-Captain
+      institution: International Genetically Engineered Machine Competition (iGEM), Paris, France
+      year: Jun – Oct 2022
+    - title: Editor-in-Chief
+      institution: Ashesi Science Engineering Entrepreneurship Design (SEED) Journal, Ghana
+      year: 2022 – 2023
+
+- title: Technical Skills
+  type: list
+  contents:
+    - <u>Programming Languages:</u> C++, MATLAB, PHP, MySQL, HTML, CSS, R, Python, Julia
+    - <u>Power Systems Tools:</u> PowerModels, MATPOWER, PG-LIB, Pandapower, PowerWorld, PYPOWER
+    - <u>Machine Learning & Optimization:</u> SciPy, CVXPY, PyTorch, OSQP, GUROBI
+    - <u>Other Tools:</u> Git, NumPy, Electronic Design Automation (EDA)

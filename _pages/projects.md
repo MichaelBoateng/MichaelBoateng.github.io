@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: News
+permalink: /News/
+description: Newsletters from academia and industry highlighting my work and accomplishments from undergraduate through graduate studies. These letters cover a wide range of problems in electrical engineering.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [Institutional Newsletters]
 horizontal: false
 ---
 
@@ -29,7 +29,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
@@ -55,7 +55,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}

@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Electrical and Computer Engineering, PhD Student | Georgia Tech 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>12th Floor Coda Tech Square</p>
+    <p>756 West Peachtree Street</p>
+    <p>Atlanta, GA 30332</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,18 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Electrical and Computer Engineering at [Georgia Tech](https://www.gatech.edu/), which is [ranked amongst the best engineering school in the U.S.](https://www.usnews.com/best-graduate-schools/top-engineering-schools/georgia-institute-of-technology-02049) I work as a Graduate Research Assistant in the Energy Division of the [AI Institute for Advances in Optimization (AI4OPT)](https://www.ai4opt.org/ai-energy), where I apply artificial intelligence and optimization techniques to enhance power grid reliability and efficiency.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on developing novel machine learning approaches for Security-Constrained AC Optimal Power Flow (AC SCOPF), AC power flow feasibility restoration, and Volt/VAR optimization in large-scale transmission networks. I am supervised by [Prof. Pascal Van Hentenryck](https://www.isye.gatech.edu/users/pascal-van-hentenryck) and [Prof. Daniel Molzahn](https://molzahn.github.io/index.html) at Georgia Tech, with additional mentorship from [Dr. Russell Bent](https://scholar.google.com/citations?user=DPvklMcAAAAJ&hl=en) at [Los Alamos National Laboratory (LANL)](https://www.lanl.gov/) and Prof. Parikshit Pareek at IIT Roorkee.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I serve as a Graduate Research Consultant at the [Electric Reliability Council of Texas (ERCOT)](https://www.ercot.com/about), where I collaborate with engineers on machine learning solutions for contingency analysis using real-world operational data from the Texas grid. I also hold a Graduate Research Intern position at LANL, where I design end-to-end learning frameworks focused on embedding AC non-linearities to market clearing problems.
+
+
+<div class="mt-4" style="max-width: 70%;">
+  <img src="/al-folio/assets/img/logos.png" alt="Affiliation Logos" style="width: 100%; height: auto;">
+</div>

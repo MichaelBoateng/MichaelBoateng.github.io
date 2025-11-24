@@ -1,11 +1,16 @@
 ---
 layout: page
-title: project 4
+title: ECE Researchers and Students Headline ISSCC 2024
+institution: Georgia Tech, Atlanta, GA
+date: Mar 2024
 description: another without an image
-img:
-importance: 3
-category: fun
+img: assets/img/image4.jpg
+redirect: https://ece.gatech.edu/news/2024/02/ece-researchers-and-students-headline-isscc-2024
+importance: 4
+category: Institutional Newsletters
 ---
+
+[Read more](https://ece.gatech.edu/news/2024/02/ece-researchers-and-students-headline-isscc-2024){:target="_blank"}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

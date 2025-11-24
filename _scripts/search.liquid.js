@@ -78,8 +78,9 @@ ninja.data = [
       },
     {%- endfor -%}
   {%- endif -%}
+  {%- comment -%}
   {%- for collection in site.collections -%}
-    {%- if collection.label != 'posts' -%}
+    {%- if collection.label != 'posts' and collection.label != 'books' -%}
       {%- for item in collection.docs -%}
         {
           {%- if item.inline -%}
@@ -100,6 +101,7 @@ ninja.data = [
       {%- endfor -%}
     {%- endif -%}
   {%- endfor -%}
+  {%- endcomment -%}
   {%- if site.socials_in_search -%}
     {%- for social in site.data.socials -%}
       {%- case social[0] -%}

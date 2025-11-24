@@ -1,12 +1,16 @@
 ---
 layout: page
-title: project 3 with very long name
+title: Georgia Tech Participates in the DoE CyberForce Competition
+institution: Georgia Tech, Atlanta, GA
+date: Oct 2024
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/image3.jpg
+redirect: https://cyberforce.energy.gov/cyberforce-competition/
 importance: 3
-category: work
+category: Institutional Newsletters
 ---
+
+[CyberForce Competition](https://cyberforce.energy.gov/cyberforce-competition/){:target="_blank"}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

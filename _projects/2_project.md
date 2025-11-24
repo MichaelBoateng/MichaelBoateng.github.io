@@ -1,12 +1,17 @@
 ---
 layout: page
-title: project 2
+title: LANL and Georgia Tech Partner for Advanced AI Research on Energy Grids
+institution: AI Institute for Advances in Optimization, Atlanta, GA
+date: Aug 2024
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: assets/img/image2.jpg
+redirect: https://www.lanl.gov/media/news/0821-ai-energy-grid-research
 importance: 2
-category: work
+category: Institutional Newsletters
 giscus_comments: true
 ---
+
+[LANL News](https://www.lanl.gov/media/news/0821-ai-energy-grid-research){:target="_blank"} | [Georgia Tech News](https://news.gatech.edu/news/2024/08/21/lanl-and-georgia-tech-partner-advanced-ai-research-energy-grids){:target="_blank"}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
