@@ -10,7 +10,7 @@ importance: 5
 category: Institutional Newsletters
 ---
 
-[Watch video](https://www.youtube.com/watch?v=khQmykFBtg4&t=1s){:target="_blank"}
+[Watch video](https://www.youtube.com/watch?v=khQmykFBtg4&t=1s){:target="\_blank"}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

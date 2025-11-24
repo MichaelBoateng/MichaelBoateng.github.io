@@ -10,7 +10,7 @@ importance: 4
 category: Institutional Newsletters
 ---
 
-[Read more](https://ece.gatech.edu/news/2024/02/ece-researchers-and-students-headline-isscc-2024){:target="_blank"}
+[Read more](https://ece.gatech.edu/news/2024/02/ece-researchers-and-students-headline-isscc-2024){:target="\_blank"}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

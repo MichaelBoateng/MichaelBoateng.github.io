@@ -10,7 +10,7 @@ importance: 6
 category: Institutional Newsletters
 ---
 
-[CyberForce Competition](https://cyberforce.energy.gov/cyberforce-competition/){:target="_blank"} | [SEED Journal](https://journal.ashesi.edu.gh/index.php/seed/issue/view/1/7){:target="_blank"}
+[CyberForce Competition](https://cyberforce.energy.gov/cyberforce-competition/){:target="\_blank"} | [SEED Journal](https://journal.ashesi.edu.gh/index.php/seed/issue/view/1/7){:target="\_blank"}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

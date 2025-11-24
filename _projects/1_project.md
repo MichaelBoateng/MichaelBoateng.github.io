@@ -11,7 +11,7 @@ category: Institutional Newsletters
 related_publications: true
 ---
 
-[Read more](https://gatech.meritpages.com/?merit_achievement_id=192540&merit_story_id=162885178){:target="_blank"}
+[Read more](https://gatech.meritpages.com/?merit_achievement_id=192540&merit_story_id=162885178){:target="\_blank"}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
