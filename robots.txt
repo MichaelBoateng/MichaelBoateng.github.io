@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.linkedin.com/in/mkabo/sitemap.xml
+Sitemap: https://michaelboateng.github.io/sitemap.xml
