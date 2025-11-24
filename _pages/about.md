@@ -34,5 +34,5 @@ My research focuses on developing novel machine learning approaches for Security
 Currently, I serve as a Graduate Research Consultant at the [Electric Reliability Council of Texas (ERCOT)](https://www.ercot.com/about), where I collaborate with engineers on machine learning solutions for contingency analysis using real-world operational data from the Texas grid. I also hold a Graduate Research Intern position at LANL, where I design end-to-end learning frameworks focused on embedding AC non-linearities to market clearing problems.
 
 <div class="mt-4" style="max-width: 70%;">
-  <img src="/al-folio/assets/img/logos.png" alt="Affiliation Logos" style="width: 100%; height: auto;">
+  <img src="/assets/img/affiliation_logo.png" alt="Affiliation Logos" style="width: 100%; height: auto;">
 </div>
