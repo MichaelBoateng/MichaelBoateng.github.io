@@ -3,8 +3,8 @@ layout: page
 title: Automated Prototype Named Strongest Senior-Year Project at Commencement
 institution: Ashesi University, Accra, Ghana
 date: Jul 2022
-description: a project with no image
-img: assets/img/image6.jpg
+description: Senior year capstone project recognition
+img: /assets/img/image6.jpg
 redirect: https://www.youtube.com/watch?v=khQmykFBtg4&t=1s
 importance: 6
 category: Institutional Newsletters
