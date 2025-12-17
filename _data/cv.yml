@@ -21,6 +21,19 @@
 - title: Education
   type: time_table
   contents:
+    - title: Bachelor of Science (B.Sc.)
+      institution: Ashesi University, Accra, Ghana
+      year: Sep 2018 – Jun 2022
+      description:
+        - Electrical and Electronics Engineering. Cum laude
+        - B.Sc. Project Overall Best Thesis – Engineering Department [Published in IEEE Xplore| Citations 10]
+    - title: Master of Science (MS.)
+      institution: Georgia Institute of Technology, Atlanta, GA
+      year: Aug 2023 – May 2025
+      description:
+        - Electrical and Computer Engineering. CGPA 3.80/4.0
+        - Minor Industrial and Systems Engineering (ISyE) – Regression Analysis, Deterministic & Convex Optimization
+        - Coursework Power Systems (Protection, Cybersecurity, Operation & Control), Linear Systems & Control
     - title: Doctor of Philosophy (Ph.D.)
       institution: Georgia Institute of Technology, Atlanta, GA
       year: Aug 2023 – Jun 2028
@@ -29,19 +42,6 @@
         - Graduate Research Assistant – AI Institute for Advances in Optimization (AI4OPT) | Energy Division
         - Supervisors Prof. Pascal Van Hentenryck and Prof. Daniel Molzahn
         - External Mentors Dr. Russell Bent (LANL) and Prof. Parikshit Pareek (IIT Roorkee)
-    - title: Master of Science (MS.)
-      institution: Georgia Institute of Technology, Atlanta, GA
-      year: Aug 2023 – May 2025
-      description:
-        - Electrical and Computer Engineering. CGPA 3.80/4.0
-        - Minor Industrial and Systems Engineering (ISyE) – Regression Analysis, Deterministic & Convex Optimization
-        - Coursework Power Systems (Protection, Cybersecurity, Operation & Control), Linear Systems & Control
-    - title: Bachelor of Science (B.Sc.)
-      institution: Ashesi University, Accra, Ghana
-      year: Sep 2018 – Jun 2022
-      description:
-        - Electrical and Electronics Engineering. Cum laude
-        - B.Sc. Project Overall Best Thesis – Engineering Department [Published in IEEE Xplore| Citations 10]
 
 - title: Research Experience
   type: time_table
