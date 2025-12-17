@@ -50,10 +50,10 @@
       institution: Electric Reliability Council of Texas (ERCOT), Austin, TX
       year: Oct 2025 – Present
       description:
-        - Risk Assessment of Texas Grid Using AC SCOPF
-        - Collaborating with ERCOT engineers on machine learning approaches for Security-Constrained AC Optimal Power Flow
-        - Developing self-supervised primal-dual learning framework for AC non-linearities in preventive SCOPF pipelines
+        - Risk Assessment of Texas Grid Using AC SCOPF. Collaborating with ERCOT engineers on machine learning approaches for Security-Constrained AC Optimal Power Flow and greater than N-4 contingency analysis using real-world operational data from the Texas grid.
+        - Developing self-supervised primal-dual learning framework
         - Enhancing grid reliability under large-scale system conditions (1000+ buses)
+        - AC non-linearities incorporation into preventive SCOPF pipelines
     - title: Graduate Research Intern
       institution: Los Alamos National Laboratory (LANL), Los Alamos, NM
       year: May 2025 – Present
