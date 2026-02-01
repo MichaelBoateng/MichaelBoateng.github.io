@@ -6,7 +6,7 @@ subtitle: Electrical and Computer Engineering, PhD Student | Georgia Tech
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpg 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>12th Floor Coda Tech Square</p>
