@@ -101,15 +101,15 @@
   ],
   "education": [
     {
-      "institution": "Georgia Institute of Technology",
-      "location": "Atlanta, GA",
-      "url": "https://www.gatech.edu/",
-      "area": "Electrical and Computer Engineering",
-      "studyType": "Doctor of Philosophy (Ph.D.)",
-      "startDate": "2023-08-01",
-      "endDate": "2028-06-01",
-      "score": "In Progress",
-      "courses": ["Power Systems", "AI for Optimization", "Security-Constrained Optimal Power Flow"]
+      "institution": "Ashesi University",
+      "location": "Accra, Ghana",
+      "url": "https://www.ashesi.edu.gh/",
+      "area": "Electrical and Electronics Engineering",
+      "studyType": "Bachelor of Science (B.Sc.)",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-01",
+      "score": "Cum laude",
+      "courses": ["Best Thesis - Engineering Department", "Published in IEEE Xplore"]
     },
     {
       "institution": "Georgia Institute of Technology",
@@ -123,15 +123,15 @@
       "courses": ["Power Systems Protection", "Linear Systems & Control", "Regression Analysis"]
     },
     {
-      "institution": "Ashesi University",
-      "location": "Accra, Ghana",
-      "url": "https://www.ashesi.edu.gh/",
-      "area": "Electrical and Electronics Engineering",
-      "studyType": "Bachelor of Science (B.Sc.)",
-      "startDate": "2018-09-01",
-      "endDate": "2022-06-01",
-      "score": "Cum laude",
-      "courses": ["Best Thesis - Engineering Department", "Published in IEEE Xplore"]
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "url": "https://www.gatech.edu/",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Doctor of Philosophy (Ph.D.)",
+      "startDate": "2023-08-01",
+      "endDate": "2028-06-01",
+      "score": "In Progress",
+      "courses": ["Power Systems", "AI for Optimization", "Security-Constrained Optimal Power Flow"]
     }
   ],
   "awards": [
@@ -177,7 +177,7 @@
       "publisher": "24th Power Systems Computation Conference (PSCC)",
       "releaseDate": "2025-06-01",
       "url": "",
-      "summary": "Research on AC feasibility restoration techniques for DCOPF dispatch, submitted to PSCC 2025. Co-authored with R. Bent, S. Misra, P. Park, P. Van Hentenryck, and D.K. Molzahn."
+      "summary": "Research on AC feasibility restoration techniques for DCOPF dispatch, submitted to PSCC 2025. Co-authored with R. Bent, S. Misra, P. Pareek, P. Van Hentenryck, and D.K. Molzahn."
     },
     {
       "name": "Volt/VAR Optimization in Transmission Networks with Discrete-Control Devices",
