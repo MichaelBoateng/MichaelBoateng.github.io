@@ -942,9 +942,9 @@ code {
 
 // Transitioning Themes
 html.transition,
-html.transition *,
-html.transition *:before,
-html.transition *:after {
+html.transition *:not(img):not(picture):not(svg),
+html.transition *:not(img):not(picture):not(svg):before,
+html.transition *:not(img):not(picture):not(svg):after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
