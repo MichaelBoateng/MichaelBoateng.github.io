@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-gallery",
           title: "Gallery",
-          description: "Visual documentation of my research work, conference presentations, and professional activities in power systems and machine learning.",
+          description: "Fun moments and social activities with my research group and fellow graduate students at Georgia Tech.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/gallery/";
