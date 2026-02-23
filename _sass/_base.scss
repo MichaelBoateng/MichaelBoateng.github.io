@@ -197,6 +197,13 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
+  
+  img {
+    color-scheme: initial;
+    filter: none;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: optimize-contrast;
+  }
 
   .more-info {
     margin-bottom: 5px;
@@ -1205,6 +1212,13 @@ nav[data-toggle="toc"] {
 
 .unloaded {
   display: none !important;
+}
+
+// Preserve original image colors
+.img-fluid {
+  color-scheme: initial !important;
+  filter: none !important;
+  image-rendering: auto;
 }
 
 .medium-zoom-overlay,
