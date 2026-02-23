@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-gallery",
+          title: "Gallery",
+          description: "Visual documentation of my research work, conference presentations, and professional activities in power systems and machine learning.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
+          },
         },{
       id: 'light-theme',
       title: 'Change theme to light',
