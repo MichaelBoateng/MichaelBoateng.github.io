@@ -498,6 +498,7 @@ footer.fixed-bottom {
   font-size: 0.75rem;
 
   .container {
+    background-color: transparent !important;
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
