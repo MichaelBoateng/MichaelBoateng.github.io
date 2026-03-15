@@ -293,6 +293,8 @@ let initTheme = () => {
 
   // Add event listener to the system theme preference change.
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {
-    applyTheme();
+    if (determineThemeSetting() === "system") {
+      applyTheme();
+    }
   });
 };
