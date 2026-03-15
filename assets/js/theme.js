@@ -250,11 +250,11 @@ let transTheme = () => {
 };
 
 // Determine the expected state of the theme toggle, which can be "dark" or "light".
-// Default is "light".
+// Default is "dark".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
   if (themeSetting != "dark" && themeSetting != "light") {
-    themeSetting = "light";
+    themeSetting = "dark";
   }
   return themeSetting;
 };
