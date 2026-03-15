@@ -71,6 +71,36 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Ana_M.jpg' | relative_url }}" class="card-img-top" alt="CTL Faculty Awards Ceremony">
+          <div class="card-body">
+            <h5 class="card-title">Reunited with a Mentor!</h5>
+            <p class="card-text">So great to reconnect with my former GT faculty from my first year in the PhD, Ana Mazmishvili, at the Center for Teaching and Learning Faculty Awards ceremony. Always inspiring to celebrate great educators!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Prof_Rabab.jpg' | relative_url }}" class="card-img-top" alt="Prof. Rabab Haider Talk">
+          <div class="card-body">
+            <h5 class="card-title">AI4OPT Reunion!</h5>
+            <p class="card-text">Great to see former AI4OPT Energy division postdoc Prof. Rabab Haider, now an Assistant Professor at the University of Michigan, present on fast algorithms for large-scale optimization in renewable-rich power systems. Inspiring to see her journey!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/E-board_with_Oko_Buckle.JPEG' | relative_url }}" class="card-img-top" alt="Ghana Independence Event">
+          <div class="card-body">
+            <h5 class="card-title">Ghana Independence Night!</h5>
+            <p class="card-text">A great night of teachings and networking at the GT hosted Ghanaian independence event! Awesome hearing from keynote speaker Mr. Oko Buckle, Senior VP and General Manager (Southeast U.S.) at Burns and McDonnell.</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
