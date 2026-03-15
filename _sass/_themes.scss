@@ -126,6 +126,19 @@ html[data-theme="light"] {
   --global-text-color: #111111;
   --global-text-color-light: #4a4a4a;
   --global-divider-color: rgba(0, 0, 0, 0.06);
+
+  body,
+  .post,
+  .post-header,
+  .post-content,
+  .container {
+    background-color: #ffffff;
+  }
+
+  .navbar {
+    background-color: #ffffff;
+    opacity: 1;
+  }
 }
 
 html[data-theme-setting="dark"] {
