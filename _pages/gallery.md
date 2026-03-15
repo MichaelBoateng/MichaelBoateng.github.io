@@ -55,8 +55,8 @@ nav_order: 4
         <div class="card h-100">
           <img src="{{ '/assets/img/independence.jpg' | relative_url }}" class="card-img-top" alt="Ghana Independence Day Celebration">
           <div class="card-body">
-            <h5 class="card-title">Ghana Independence Day!</h5>
-            <p class="card-text">Celebrating Ghana's independence with fellow Ghanaian graduate students and Prof. Amekudzi-Kennedy from Georgia Tech's Civil Engineering department. Proud moments with the community!</p>
+            <h5 class="card-title">Ghana Independence Night 2025 at GSU!</h5>
+            <p class="card-text">Celebrating Ghana's independence at Georgia State University with fellow Ghanaian graduate students and Prof. Amekudzi-Kennedy from Georgia Tech's Civil Engineering department. Proud moments with the community!</p>
           </div>
         </div>
       </div>
@@ -95,8 +95,8 @@ nav_order: 4
         <div class="card h-100">
           <img src="{{ '/assets/img/E-board_with_Oko_Buckle.JPEG' | relative_url }}" class="card-img-top" alt="Ghana Independence Event">
           <div class="card-body">
-            <h5 class="card-title">Ghana Independence Night!</h5>
-            <p class="card-text">A great night of teachings and networking at the GT hosted Ghanaian independence event! Awesome hearing from keynote speaker Mr. Oko Buckle, Senior VP and General Manager (Southeast U.S.) at Burns and McDonnell.</p>
+            <h5 class="card-title">Ghana Independence Night 2026 at GT!</h5>
+            <p class="card-text">A great night of teachings and networking at the GT-hosted Ghanaian independence event in 2026! Awesome hearing from keynote speaker Mr. Oko Buckle, Senior VP and General Manager (Southeast U.S.) at Burns and McDonnell.</p>
           </div>
         </div>
       </div>
