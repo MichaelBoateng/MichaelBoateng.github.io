@@ -6,7 +6,7 @@ date: Mar 2024
 description: another without an image
 img: assets/img/image4.jpg
 redirect: https://ece.gatech.edu/news/2024/02/ece-researchers-and-students-headline-isscc-2024
-importance: 4
+importance: 0.2
 category: Institutional Newsletters
 ---
 

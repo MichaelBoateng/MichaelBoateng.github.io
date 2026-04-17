@@ -6,7 +6,7 @@ date: Oct 2024
 description: a project that redirects to another website
 img: assets/img/image3.jpg
 redirect: https://cyberforce.energy.gov/cyberforce-competition/
-importance: 3
+importance: 0.1
 category: Institutional Newsletters
 ---
 
