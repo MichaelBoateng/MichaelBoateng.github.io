@@ -6,7 +6,7 @@ date: Jul 2025
 description: with background image
 img: assets/img/image1.jpg
 redirect: https://gatech.meritpages.com/?merit_achievement_id=192540&merit_story_id=162885178
-importance: 1
+importance: 2
 category: Institutional Newsletters
 related_publications: true
 ---
