@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Georgia Tech Participates in the DoE CyberForce Competition
-institution: Georgia Tech, Atlanta, GA
+institution: Georgia Institute of Technology, Atlanta, GA
 date: Oct 2024
 description: a project that redirects to another website
 img: assets/img/image3.jpg

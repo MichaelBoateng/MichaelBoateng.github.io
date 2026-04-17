@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECE Researchers and Students Headline ISSCC 2024
-institution: Georgia Tech, Atlanta, GA
+institution: Georgia Institute of Technology, Atlanta, GA
 date: Mar 2024
 description: another without an image
 img: assets/img/image4.jpg
