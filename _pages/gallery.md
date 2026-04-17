@@ -101,6 +101,36 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Seasons_Greetings_from_I_President_oftheFCGS_fELLOWSHIPOFcHRISTIAN_GRADSTUDENTS_POSING_WITH_SOME_CLOTHES_FRIENDS_CHRISTMAS_2024.JPG' | relative_url }}" class="card-img-top" alt="Seasons Greetings Christmas">
+          <div class="card-body">
+            <h5 class="card-title">Seasons Greetings from FCGS!</h5>
+            <p class="card-text">Celebrating Christmas 2024 with the Fellowship of Christian Graduate Students at Georgia Tech. A wonderful community bringing together faith, friendship, and joy during the holiday season!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Presenting_on_AI_for_Energy_to motivate_young_highschool_students_from_Denmark High School_on_uses_of_AI_for Power_systems_optimization.PNG' | relative_url }}" class="card-img-top" alt="AI for Energy Presentation">
+          <div class="card-body">
+            <h5 class="card-title">Presenting AI for Energy Optimization!</h5>
+            <p class="card-text">Sharing my passion for AI applications in power systems with motivated high school students from Denmark High School. Inspiring the next generation to explore careers in AI and energy optimization!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Posing_with_Buzz_the_Mascot_at_the_annual_Up_with_the_white_and_gold_student_engagement_awards_ceremony_2026.jpeg' | relative_url }}" class="card-img-top" alt="Buzz Mascot at Awards">
+          <div class="card-body">
+            <h5 class="card-title">Buzz and Me at GT Awards Ceremony!</h5>
+            <p class="card-text">A fun moment posing with Buzz, Georgia Tech's iconic mascot, at the annual Up With The White and Gold student engagement awards ceremony in 2026. Great recognition of our community contributions!</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
