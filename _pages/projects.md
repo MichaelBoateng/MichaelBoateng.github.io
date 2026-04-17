@@ -63,3 +63,16 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+## Recent News
+
+<div class="news-section">
+{% assign sorted_posts = site.posts | sort: 'date' | reverse | limit: 10 %}
+{% for post in sorted_posts %}
+  <div class="news-item" style="margin-bottom: 1.5rem; padding: 1rem; background: #f8f9fa; border-radius: 5px;">
+    <h4 style="margin-bottom: 0.5rem;">{{ post.title }}</h4>
+    <p style="margin: 0.5rem 0; color: #666; font-size: 0.9em;">{{ post.date | date: "%B %d, %Y" }}</p>
+    <p style="margin: 0.5rem 0;">{{ post.excerpt }}</p>
+  </div>
+{% endfor %}
+</div>
