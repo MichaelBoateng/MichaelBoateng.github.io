@@ -153,7 +153,7 @@ nav_order: 4
 
       <div class="col">
         <div class="card h-100">
-          <img src="{{ '/assets/img/A_visit_from_ProfPriya_Donti_from_MIT_to_my_second_lab_at_GOAL.jpg' | relative_url }}" class="card-img-top" alt="Visit from Prof. Priya Donti">
+          <img src="{{ '/assets/img/assets/img/A_visit_from_ProfPriya_Donti_from_MIT_to_my_second_lab_at_Georgia_Tech_the_GOAL.jpg' | relative_url }}" class="card-img-top" alt="Visit from Prof. Priya Donti">
           <div class="card-body">
             <h5 class="card-title">Visit from Prof. Priya Donti!</h5>
             <p class="card-text">A visit from Prof. Priya Donti from MIT to my second lab at Georgia Tech, the Grid Optimization and Algorithms Lab. It is always great to interact with her and bounce ideas around.</p>
