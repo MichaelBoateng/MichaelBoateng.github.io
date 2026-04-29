@@ -198,8 +198,8 @@ ul.task-list input[type="checkbox"] {
   
   img {
     color-scheme: initial;
-    filter: brightness(0.9) contrast(0.95) saturate(0.95) !important;
-    image-rendering: auto;
+    filter: none !important;
+    image-rendering: auto !important;
     opacity: 1 !important;
     box-shadow: none !important;
   }
