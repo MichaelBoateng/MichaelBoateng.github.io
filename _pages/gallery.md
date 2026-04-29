@@ -131,6 +131,36 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Finalgrouppicturewithmy_Machine_Learning.jpg' | relative_url }}" class="card-img-top" alt="Machine Learning CS7641 Group Project">
+          <div class="card-body">
+            <h5 class="card-title">Machine Learning CS7641 Group Project!</h5>
+            <p class="card-text">Final group photo with my Machine Learning CS7641 team. We utilized unsupervised learning, supervised learning, and optimization techniques to develop congestion mitigation strategies for metro Atlanta.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Filming_ofIronheart.jpg' | relative_url }}" class="card-img-top" alt="Ironheart Filming at Georgia Tech">
+          <div class="card-body">
+            <h5 class="card-title">Ironheart Filming at Georgia Tech!</h5>
+            <p class="card-text">The filming of the Ironheart TV series took place at my AI Institute for Optimization office at Georgia Tech. It was a really cool moment showcasing Georgia Tech as an AI and technology hub.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/A_visit_from_ProfPriya_Donti_from_MIT_to_my_second_lab_at_GOAL.jpg' | relative_url }}" class="card-img-top" alt="Visit from Prof. Priya Donti">
+          <div class="card-body">
+            <h5 class="card-title">Visit from Prof. Priya Donti!</h5>
+            <p class="card-text">A visit from Prof. Priya Donti from MIT to my second lab at Georgia Tech, the Grid Optimization and Algorithms Lab. It is always great to interact with her and bounce ideas around.</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
