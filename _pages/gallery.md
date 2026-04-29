@@ -43,36 +43,6 @@ nav_order: 4
 
       <div class="col">
         <div class="card h-100">
-          <img src="{{ '/assets/img/karaoke.jpg' | relative_url }}" class="card-img-top" alt="Collaborative Karaoke Event">
-          <div class="card-body">
-            <h5 class="card-title">Karaoke Night!</h5>
-            <p class="card-text">Fall 2025 collaborative karaoke event bringing together students from Ethiopian & Eritrean, Ghanaian, African, African-American, and Caribbean student associations. Music truly brings everyone together!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/independence.jpg' | relative_url }}" class="card-img-top" alt="Ghana Independence Day Celebration">
-          <div class="card-body">
-            <h5 class="card-title">Ghana Independence Night 2025 at GSU!</h5>
-            <p class="card-text">Celebrating Ghana's independence at Georgia State University with fellow Ghanaian graduate students and Prof. Amekudzi-Kennedy from Georgia Tech's Civil Engineering department. Proud moments with the community!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/NSBE.jpg' | relative_url }}" class="card-img-top" alt="NSBE Conference">
-          <div class="card-body">
-            <h5 class="card-title">NSBE50 Conference!</h5>
-            <p class="card-text">Representing at the National Society of Black Engineers Conference NSBE50 in Georgia at the World Congress Center. Amazing networking and scholarship opportunities!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
           <img src="{{ '/assets/img/Ana_M.jpg' | relative_url }}" class="card-img-top" alt="CTL Faculty Awards Ceremony">
           <div class="card-body">
             <h5 class="card-title">Reunited with a Mentor!</h5>
@@ -97,6 +67,36 @@ nav_order: 4
           <div class="card-body">
             <h5 class="card-title">Ghana Independence Night 2026 at GT!</h5>
             <p class="card-text">A great night of teachings and networking at the GT-hosted Ghanaian independence event in 2026! Awesome hearing from keynote speaker Mr. Oko Buckle, Senior VP and General Manager (Southeast U.S.) at Burns and McDonnell.</p>
+          </div>
+        </div>
+      </div>
+
+            <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/karaoke.jpg' | relative_url }}" class="card-img-top" alt="Collaborative Karaoke Event">
+          <div class="card-body">
+            <h5 class="card-title">Karaoke Night!</h5>
+            <p class="card-text">Fall 2025 collaborative karaoke event bringing together students from Ethiopian & Eritrean, Ghanaian, African, African-American, and Caribbean student associations. Music truly brings everyone together!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/independence.jpg' | relative_url }}" class="card-img-top" alt="Ghana Independence Day Celebration">
+          <div class="card-body">
+            <h5 class="card-title">Ghana Independence Night 2025 at GSU!</h5>
+            <p class="card-text">Celebrating Ghana's independence at Georgia State University with fellow Ghanaian graduate students and Prof. Amekudzi-Kennedy from Georgia Tech's Civil Engineering department. Proud moments with the community!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/NSBE.jpg' | relative_url }}" class="card-img-top" alt="NSBE Conference">
+          <div class="card-body">
+            <h5 class="card-title">NSBE50 Conference!</h5>
+            <p class="card-text">Representing at the National Society of Black Engineers Conference NSBE50 in Georgia at the World Congress Center. Amazing networking and scholarship opportunities!</p>
           </div>
         </div>
       </div>
