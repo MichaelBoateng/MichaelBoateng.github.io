@@ -193,16 +193,15 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
-// Profile
-
 .profile {
   width: 100%;
   
   img {
     color-scheme: initial;
-    filter: none;
-    image-rendering: -webkit-optimize-contrast;
-    image-rendering: optimize-contrast;
+    filter: brightness(0.9) contrast(0.95) saturate(0.95) !important;
+    image-rendering: auto;
+    opacity: 1 !important;
+    box-shadow: none !important;
   }
 
   .more-info {
