@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 ---
 
+
 <div class="projects">
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
@@ -40,6 +41,7 @@ nav_order: 4
           </div>
         </div>
       </div>
+
 
       <div class="col">
         <div class="card h-100">
@@ -157,6 +159,26 @@ nav_order: 4
           <div class="card-body">
             <h5 class="card-title">Visit from Prof. Priya Donti!</h5>
             <p class="card-text">A visit from Prof. Priya Donti from MIT to my second lab at Georgia Tech, the Grid Optimization and Algorithms Lab. It is always great to interact with her and bounce ideas around.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/GOAL.jpeg' | relative_url }}" class="card-img-top" alt="GOAL Lab PhD Defense Celebration">
+          <div class="card-body">
+            <h5 class="card-title">Celebrating Dr. Alejandro’s PhD Defense!</h5>
+            <p class="card-text">Celebrating a labmate's successful PhD defense at AltaToro in Atlanta, GA with the GOAL Lab. Congratulations again, Dr. Alejandro!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/yalda.jpg' | relative_url }}" class="card-img-top" alt="Persian Dinner with AI4OPT Labmates at Yalda Restaurant">
+          <div class="card-body">
+            <h5 class="card-title">Persian Dinner with AI4OPT Labmates!</h5>
+            <p class="card-text">Enjoying a Persian dinner with AI4OPT labmates at Yalda Restaurant, bringing together different factions of our AI divisions across Energy, Manufacturing, and Healthcare.</p>
           </div>
         </div>
       </div>
