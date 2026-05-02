@@ -41,7 +41,6 @@ nav_order: 4
           </div>
         </div>
       </div>
-
       
       <div class="col">
         <div class="card h-100">
@@ -168,7 +167,7 @@ nav_order: 4
         <div class="card h-100">
           <img src="{{ '/assets/img/Filming_ofIronheart.jpg' | relative_url }}" class="card-img-top" alt="Marvel's Ironheart Filming at Georgia Tech">
           <div class="card-body">
-            <h5 class="card-title">Ironheart Filming at Georgia Tech!</h5>
+            <h5 class="card-title">Marvel's Ironheart Filming at Georgia Tech!</h5>
             <p class="card-text">The filming of the Ironheart TV series took place at my AI Institute for Optimization office at Georgia Tech (Coda Building). It was a really cool moment showcasing Georgia Tech as an AI and technology hub.</p>
           </div>
         </div>
