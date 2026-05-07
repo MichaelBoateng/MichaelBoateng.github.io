@@ -183,6 +183,16 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Michael_Audrey_research.jpeg' | relative_url }}" class="card-img-top" alt="MPower Boards research with Audrey Vu">
+          <div class="card-body">
+            <h5 class="card-title">Bringing Power Grids to Life with MPower Boards!</h5>
+            <p class="card-text">Excited to be working with my undergraduate research assistant Audrey Vu (ECE GT, 2028) and Prof. Molzahn on MPower Boards, a hands-on platform that transforms power grids into interactive physical models using 3D printing, LEDs, and real-time simulations. The project aims to make power systems education and research more visual, engaging, and intuitive.</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
