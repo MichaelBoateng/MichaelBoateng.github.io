@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 7 # leave blank to include all the news in the `_news` folder
+  limit: 8 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -34,5 +34,5 @@ My research focuses on developing novel machine learning approaches for Security
 Currently, I serve as a Graduate Research Consultant at the [Electric Reliability Council of Texas (ERCOT)](https://www.ercot.com/about), where I collaborate with engineers on machine learning solutions for contingency analysis using real-world operational data from the Texas grid. I also hold a Graduate Research Intern position at LANL, where I design end-to-end learning frameworks focused on embedding AC non-linearities to market clearing problems.
 
 <div class="mt-5" style="max-width: 100%; margin-bottom: 1.5rem;">
-  <img src="/assets/img/logo_4.jpg" alt="Affiliation Logos" style="width: 100%; height: auto;">
+  <img src="/assets/img/logo_4.png" alt="Affiliation Logos" style="width: 100%; height: auto;">
 </div>

@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Michael Boateng Receives his Masters Degree from Georgia Tech
-institution: AI Institute for Advances in Optimization, Atlanta, GA
-date: Jul 2025
-description: with background image
-img: assets/img/image1.jpg
-redirect: https://gatech.meritpages.com/?merit_achievement_id=192540&merit_story_id=162885178
-importance: 2
+title: ECE Researchers and Students Headline ISSCC 2024
+institution: Georgia Institute of Technology, Atlanta, GA
+date: Mar 2024
+description: another without an image
+img: assets/img/image4.jpg
+redirect: https://ece.gatech.edu/news/2024/02/ece-researchers-and-students-headline-isscc-2024
+importance: 0.2
 category: Institutional Newsletters
-related_publications: true
 ---
 
-[Read more](https://gatech.meritpages.com/?merit_achievement_id=192540&merit_story_id=162885178){:target="\_blank"}
+[Read more](https://ece.gatech.edu/news/2024/02/ece-researchers-and-students-headline-isscc-2024){:target="\_blank"}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -49,8 +48,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
