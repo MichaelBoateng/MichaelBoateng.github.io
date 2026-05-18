@@ -6,7 +6,7 @@ date: Aug 2024
 description: a project with a background image and giscus comments
 img: assets/img/image2.jpg
 redirect: https://www.lanl.gov/media/news/0821-ai-energy-grid-research
-importance: 1
+importance: 0.07
 category: Institutional Newsletters
 giscus_comments: true
 ---
