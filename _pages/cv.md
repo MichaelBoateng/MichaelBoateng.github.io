@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 1
 nav_title: CV
-cv_pdf: Michael_Boateng_GT_CV_June_2026.pdf
+cv_pdf: Michael_Boateng_GT_CV_Jul_2026.pdf
 description: Comprehensive curriculum vitae showcasing my academic background, research experience, and professional achievements in power systems optimization and machine learning.
 toc:
   sidebar: left
