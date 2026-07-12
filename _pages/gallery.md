@@ -193,6 +193,36 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Supporting_afellowPhDstudentspresentationatAmericanChemicalSocietyatGeorgiaWorldCongressCenter.jpg' | relative_url }}" class="card-img-top" alt="ACS Presentation Support">
+          <div class="card-body">
+            <h5 class="card-title">Supporting a Fellow PhD Student at ACS!</h5>
+            <p class="card-text">Supporting a fellow PhD student's presentation at the American Chemical Society conference at the Georgia World Congress Center. Great to cheer on colleagues and engage with interdisciplinary research!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/FellowPhDstudentsacrossGeorgiaTechGSAandClemsongettingtogtherformybirthdaycelebration.jpg' | relative_url }}" class="card-img-top" alt="Birthday Celebration with PhD Students">
+          <div class="card-body">
+            <h5 class="card-title">Birthday Celebration with Fellow PhD Students!</h5>
+            <p class="card-text">Fellow PhD students across Georgia Tech GSA and Clemson coming together to celebrate my birthday. So grateful for this wonderful community that makes graduate school an incredible journey!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/EthyltheWhalemonumentatSantafeCommunityCollegewhereIvolunteeredhelpingkidsbuildlaserharpsandguitarswithelectronicsinassociationwithSTEMSantafeOrganisation.jpg' | relative_url }}" class="card-img-top" alt="STEM Santa Fe Volunteering">
+          <div class="card-body">
+            <h5 class="card-title">Volunteering with STEM Santa Fe!</h5>
+            <p class="card-text">At the Ethyl the Whale monument at Santa Fe Community College, where I volunteered helping K-12 students build laser harps and guitars with electronics in association with the STEM Santa Fe Organisation. Inspiring the next generation of makers!</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
