@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Volunteered with <a href="https://stemsantafe.org/" target="_blank">STEM Santa Fe</a> to help K–12 students build laser harps and guitars with electronics in New Mexico! 🎸⚡
+Volunteered with <a href="https://stemsantafe.org/" target="_blank">STEM Santa Fe</a> to help K–12 students build laser harps and guitars with electronics! 🎸⚡
