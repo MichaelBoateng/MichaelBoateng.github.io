@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Volunteered with <a href="https://stemsantafe.org/" target="_blank">STEM Santa Fe</a> helping K–12 students at Santa Fe Community College and Northern NM College build laser harps and guitars with electronics — during my summer internship at Los Alamos National Laboratory, NM, USA! 🎸⚡
+Volunteered with <a href="https://stemsantafe.org/" target="_blank">STEM Santa Fe</a> to help K–12 students build laser harps and guitars with electronics in New Mexico! 🎸⚡
