@@ -133,6 +133,24 @@
       institution: Ashesi Science Engineering Entrepreneurship Design (SEED) Journal, Ghana
       year: 2022 – 2023
 
+- title: Volunteer and Outreach
+  type: time_table
+  contents:
+    - title: STEM Volunteer – Building Laser Harps with Electronics
+      institution: Santa Fe Community College, Santa Fe, NM, USA
+      year: Summer 2025
+      description:
+        - Volunteered with <a href="https://stemsantafe.org/" target="_blank">STEM Santa Fe</a> during summer internship at Los Alamos National Laboratory
+        - Led hands-on workshop teaching K–12 students to build working laser harps using electronics, circuits, and lasers
+        - Engaged underrepresented youth in STEM through interactive making and engineering design
+    - title: STEM Volunteer – Designing Guitars with Electronics
+      institution: Northern New Mexico College, Española, NM, USA
+      year: Summer 2025
+      description:
+        - Partnered with <a href="https://stemsantafe.org/" target="_blank">STEM Santa Fe</a> to deliver electronics-based music engineering workshop
+        - Guided K–12 students in designing and assembling guitar circuits, combining physics, electronics, and creative expression
+        - Contributed to STEM Santa Fe's mission of expanding STEM access for underrepresented groups in northern New Mexico
+
 - title: Technical Skills
   type: list
   contents:
