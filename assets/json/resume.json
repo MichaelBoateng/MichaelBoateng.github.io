@@ -271,6 +271,56 @@
       "endDate": "Present",
       "summary": "Leading special projects and programs for African graduate students at Georgia Institute of Technology.",
       "highlights": ["Program development", "Community outreach initiatives"]
+    },
+    {
+      "organization": "Georgia Tech Graduate Student Government Association",
+      "location": "Atlanta, GA",
+      "position": "Chief of Staff",
+      "url": "",
+      "startDate": "2026-05-01",
+      "endDate": "Present",
+      "summary": "Serving as Chief of Staff for the Georgia Tech Graduate Student Government Association.",
+      "highlights": ["Coordinating student government operations", "Liaising between student body and administration"]
+    },
+    {
+      "organization": "Institute of Electrical and Electronics Engineers (IEEE), GT Chapter",
+      "location": "Atlanta, GA",
+      "position": "Secretary",
+      "url": "",
+      "startDate": "2025-06-01",
+      "endDate": "Present",
+      "summary": "Serving as Secretary of the Georgia Tech IEEE student chapter.",
+      "highlights": ["Managing chapter communications and records", "Supporting chapter events and initiatives"]
+    },
+    {
+      "organization": "STEM Santa Fe",
+      "location": "Santa Fe, NM, USA",
+      "position": "STEM Volunteer – Building Laser Harps with Electronics",
+      "url": "https://stemsantafe.org/",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-01",
+      "summary": "Volunteered during summer internship at Los Alamos National Laboratory, leading a hands-on workshop teaching K–12 students to build working laser harps using electronics and circuits at Santa Fe Community College.",
+      "highlights": ["Engaged underrepresented youth in STEM", "Hands-on electronics and laser circuit design"]
+    },
+    {
+      "organization": "STEM Santa Fe",
+      "location": "Española, NM, USA",
+      "position": "STEM Volunteer – Designing Guitars with Electronics",
+      "url": "https://stemsantafe.org/",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-01",
+      "summary": "Delivered electronics-based music engineering workshop at Northern New Mexico College, guiding K–12 students in designing and assembling guitar circuits.",
+      "highlights": ["Combined physics, electronics, and creative expression", "Supported STEM access for underrepresented groups in northern New Mexico"]
+    },
+    {
+      "organization": "Denmark High School",
+      "location": "Atlanta, GA, USA",
+      "position": "Volunteer Presenter – AI for Energy Outreach",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-01",
+      "summary": "Presented on AI applications in power systems optimization to motivate high school students from Denmark High School to explore careers in AI and energy.",
+      "highlights": ["Inspired the next generation to explore AI and energy careers", "Demonstrated real-world impact of machine learning in grid operations"]
     }
   ],
   "reviewer": [
