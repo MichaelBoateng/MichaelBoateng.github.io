@@ -287,7 +287,7 @@
       "location": "Atlanta, GA",
       "position": "Secretary",
       "url": "",
-      "startDate": "2025-06-01",
+      "startDate": "2026-06-01",
       "endDate": "Present",
       "summary": "Serving as Secretary of the Georgia Tech IEEE student chapter.",
       "highlights": ["Managing chapter communications and records", "Supporting chapter events and initiatives"]
@@ -297,8 +297,8 @@
       "location": "Santa Fe, NM, USA",
       "position": "STEM Volunteer – Building Laser Harps with Electronics",
       "url": "https://stemsantafe.org/",
-      "startDate": "2025-06-01",
-      "endDate": "2025-08-01",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-31",
       "summary": "Volunteered during summer internship at Los Alamos National Laboratory, leading a hands-on workshop teaching K–12 students to build working laser harps using electronics and circuits at Santa Fe Community College.",
       "highlights": ["Engaged underrepresented youth in STEM", "Hands-on electronics and laser circuit design"]
     },
@@ -307,8 +307,8 @@
       "location": "Española, NM, USA",
       "position": "STEM Volunteer – Designing Guitars with Electronics",
       "url": "https://stemsantafe.org/",
-      "startDate": "2025-06-01",
-      "endDate": "2025-08-01",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-31",
       "summary": "Delivered electronics-based music engineering workshop at Northern New Mexico College, guiding K–12 students in designing and assembling guitar circuits.",
       "highlights": ["Combined physics, electronics, and creative expression", "Supported STEM access for underrepresented groups in northern New Mexico"]
     },
@@ -317,13 +317,29 @@
       "location": "Atlanta, GA, USA",
       "position": "Volunteer Presenter – AI for Energy Outreach",
       "url": "",
-      "startDate": "2025-01-01",
-      "endDate": "2025-01-01",
+      "startDate": "2026-03-01",
+      "endDate": "2026-03-01",
       "summary": "Presented on AI applications in power systems optimization to motivate high school students from Denmark High School to explore careers in AI and energy.",
       "highlights": ["Inspired the next generation to explore AI and energy careers", "Demonstrated real-world impact of machine learning in grid operations"]
     }
   ],
   "reviewer": [
+    {
+      "name": "2026 International Journal of Applied Power Engineering (IJAPE)",
+      "summary": "Track: Distributed Systems",
+      "highlights": ["Distributed Systems", "Power Engineering"],
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-01",
+      "url": ""
+    },
+    {
+      "name": "2026 Electric Power Systems Research Journal (Elsevier)",
+      "summary": "Impact Factor: 4.2; CiteScore: 8.2. Track: Neural Networks (x5)",
+      "highlights": ["Machine Learning", "Neural Networks", "Power Systems"],
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-01",
+      "url": "https://www.journals.elsevier.com/electric-power-systems-research"
+    },
     {
       "name": "2025 24th Power Systems Computation Conference (PSCC)",
       "summary": "Track: AC-Power Flow, and Volt-Var Optimization",
@@ -331,14 +347,6 @@
       "startDate": "2025-01-01",
       "endDate": "2025-06-01",
       "url": "https://pscc2025.com"
-    },
-    {
-      "name": "2025 Electric Power Systems Research Journal (Elsevier)",
-      "summary": "Impact Factor: 4.2; CiteScore: 8.2. Track: Neural Networks",
-      "highlights": ["Machine Learning", "Neural Networks", "Power Systems"],
-      "startDate": "2025-01-01",
-      "endDate": "2025-12-01",
-      "url": "https://www.journals.elsevier.com/electric-power-systems-research"
     },
     {
       "name": "2025 IEEE Kansas Power and Energy Conference (KPEC)",
