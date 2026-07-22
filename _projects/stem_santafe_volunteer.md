@@ -1,14 +1,13 @@
 ---
 layout: page
-title: "STEM Volunteer: Building Laser Harps with Electronics & Designing Guitars with Electronics"
-institution: STEM Santa Fe
+title: "STEM Volunteer: Building Laser Harps with Electronics"
+institution: STEM Santa Fe, Santa Fe Community College, NM, USA
 date: Jul 2026
-description: "1. STEM Volunteer: Building Laser Harps with Electronics, Santa Fe Community College, NM, USA | 2. STEM Volunteer: Designing Guitars with Electronics, Northern NM College, Española, NM, USA"
-img: assets/img/STEM2.jpg
-redirect: https://stemsantafe.org/programs/stem-circles#Past_years
-importance: 10
+description: Volunteered with STEM Santa Fe helping K–12 students build laser harps with electronics at Santa Fe Community College during internship at Los Alamos National Laboratory.
+img: assets/img/Newupdate.jpg
+redirect: https://stemsantafe.org/
+importance: 0.065
 category: Institutional Newsletters
 ---
 
-1. STEM Volunteer: Building Laser Harps with Electronics, Santa Fe Community College, NM, USA
-2. STEM Volunteer: Designing Guitars with Electronics, Northern NM College, Española, NM, USA
+STEM Volunteer: Building Laser Harps with Electronics, Santa Fe Community College, NM, USA
