@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "STEM Volunteer: Building Laser Harps with Electronics"
+title: "Summer STEM Circles: Building Laser Harps with Electronics"
 institution: STEM Santa Fe, Santa Fe Community College, NM, USA
 date: Jul 2026
 description: Volunteered with STEM Santa Fe helping K–12 students build laser harps with electronics at Santa Fe Community College during internship at Los Alamos National Laboratory.
