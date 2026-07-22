@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Summer STEM Circles: Designing Guitars with Electronics"
-institution: STEM Santa Fe, Northern NM College, Española, NM, USA
+institution: STEM Santa Fe, Northern NM College, Española, NM
 date: Jul 2026
 description: Volunteered with STEM Santa Fe helping K–12 students design guitars with electronics at Northern New Mexico College, Española, during internship at Los Alamos National Laboratory.
 img: assets/img/STEM2.jpg
