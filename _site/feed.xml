@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://michaelboateng.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michaelboateng.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-06-27T17:21:33-04:00</updated><id>https://michaelboateng.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://michaelboateng.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michaelboateng.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-24T05:05:59-04:00</updated><id>https://michaelboateng.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">a post with plotly.js</title><link href="https://michaelboateng.github.io/blog/2025/plotly/" rel="alternate" type="text/html" title="a post with plotly.js" /><published>2025-03-26T10:24:00-04:00</published><updated>2025-03-26T10:24:00-04:00</updated><id>https://michaelboateng.github.io/blog/2025/plotly</id><content type="html" xml:base="https://michaelboateng.github.io/blog/2025/plotly/"><![CDATA[<p>This is an example post with some <a href="https://plotly.com/javascript/">plotly</a> code.</p>
 
 <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">plotly
@@ -185,7 +185,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="53ad59c8-1048-4882-8193-cb891034b946" data-name="log">
+<ul id="log" class="tab" data-tab="124b3c73-9d62-4443-821c-49fa363ca49f" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -200,7 +200,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="53ad59c8-1048-4882-8193-cb891034b946" data-name="log">
+<ul class="tab-content" id="124b3c73-9d62-4443-821c-49fa363ca49f" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -224,7 +224,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="3cdcf5d5-d43c-46f9-99d8-436ea8af417a" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="e93f98e8-0291-4cd3-acbb-f7ee0c014b51" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -235,7 +235,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="3cdcf5d5-d43c-46f9-99d8-436ea8af417a" data-name="data-struct">
+<ul class="tab-content" id="e93f98e8-0291-4cd3-acbb-f7ee0c014b51" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -257,7 +257,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="773cb9ce-35f0-44c0-91d2-ce2519df0467" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="995dd4c8-86b8-4271-a933-be48d39d8690" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -272,7 +272,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="773cb9ce-35f0-44c0-91d2-ce2519df0467" data-name="something-else">
+<ul class="tab-content" id="995dd4c8-86b8-4271-a933-be48d39d8690" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
