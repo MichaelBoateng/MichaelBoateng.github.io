@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-gallery",
           title: "Gallery",
-          description: "Fun moments and social activities with my research group and fellow graduate students at Georgia Tech.",
+          description: "Fun moments and social activities with my research group and fellow graduate students at Georgia Tech, National Labs, and Conferences.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/gallery/";
