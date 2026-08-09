@@ -105,6 +105,66 @@ nav_order: 4
 
       <div class="col">
         <div class="card h-100">
+          <img src="{{ '/assets/img/Back_in_Chicago_for_an_Argonne_Lab_Training_fun_siteseeing_with_friends.JPG' | relative_url }}" class="card-img-top" alt="Sightseeing in Chicago during Argonne Training">
+          <div class="card-body">
+            <h5 class="card-title">Back in Chicago for Argonne Training!</h5>
+            <p class="card-text">Sightseeing around Chicago with friends during the Argonne National Lab training program. The city never gets old!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Chicago_River_Visit_with_Friends_during_DoE_sponsored_CyberForce_Hackathon.jpg' | relative_url }}" class="card-img-top" alt="Chicago River Visit during DoE CyberForce Hackathon">
+          <div class="card-body">
+            <h5 class="card-title">Chicago River — DoE CyberForce Hackathon!</h5>
+            <p class="card-text">A quick visit to the Chicago River with friends during the DoE-sponsored CyberForce Hackathon. Great break between long hacking sessions!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Exploring_Downtown_Chicago_during_Argonne_Training_Visit.JPG' | relative_url }}" class="card-img-top" alt="Exploring Downtown Chicago during Argonne Visit">
+          <div class="card-body">
+            <h5 class="card-title">Exploring Downtown Chicago!</h5>
+            <p class="card-text">Taking in the Chicago skyline and architecture during the Argonne Training visit. Always something new to discover in the Loop!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Skydeck_Tour_with_Friends_visiting_the_tallest_building_in_chicago.jpg' | relative_url }}" class="card-img-top" alt="Skydeck Tour at Willis Tower Chicago">
+          <div class="card-body">
+            <h5 class="card-title">Skydeck Tour at Willis Tower!</h5>
+            <p class="card-text">Standing 1,353 feet up on the Skydeck at Willis Tower with friends — the views over Lake Michigan and the Chicago skyline are unreal.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Sushi_Night_with_Friends_after_completing_first_week_of_High_performance_computing_workshop.JPG' | relative_url }}" class="card-img-top" alt="Sushi Night after HPC Workshop Week One">
+          <div class="card-body">
+            <h5 class="card-title">Sushi Night after Week One of HPC Workshop!</h5>
+            <p class="card-text">Celebrating the end of a packed first week of the High-Performance Computing workshop with friends over sushi in Chicago. Well earned!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Completed_Internship_at_Los_Alamos_National_Lab_had_fun_discussions_with_amazing_scientists_in_the_land_of_enchantment.jpg' | relative_url }}" class="card-img-top" alt="Internship at Los Alamos National Lab">
+          <div class="card-body">
+            <h5 class="card-title">Internship at Los Alamos National Lab!</h5>
+            <p class="card-text">Wrapping up my internship at Los Alamos National Laboratory with great conversations and memories from the Land of Enchantment, New Mexico.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
           <img src="{{ '/assets/img/Supporting_afellowPhDstudentspresentationatAmericanChemicalSocietyatGeorgiaWorldCongressCenter.jpg' | relative_url }}" class="card-img-top" alt="ACS Presentation Support">
           <div class="card-body">
             <h5 class="card-title">Supporting a Fellow PhD Student at ACS!</h5>
@@ -219,66 +279,6 @@ nav_order: 4
           <div class="card-body">
             <h5 class="card-title">Bringing Power Grids to Life with MPower Boards!</h5>
             <p class="card-text">Excited to work with my undergraduate research assistant Audrey Vu (ECE GT, 2028) and Prof. Molzahn on MPower Boards, a hands-on platform using 3D printing, LEDs, and real-time simulations to make power systems more interactive and engaging.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/Back_in_Chicago_for_an_Argonne_Lab_Training_fun_siteseeing_with_friends.JPG' | relative_url }}" class="card-img-top" alt="Sightseeing in Chicago during Argonne Training">
-          <div class="card-body">
-            <h5 class="card-title">Back in Chicago for Argonne Training!</h5>
-            <p class="card-text">Sightseeing with friends around Chicago during the Argonne National Lab training program. Fun fact: Chicago's nickname "The Windy City" actually refers to its boastful politicians, not just the lakeside gusts off Lake Michigan!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/Chicago_River_Visit_with_Friends_during_DoE_sponsored_CyberForce_Hackathon.jpg' | relative_url }}" class="card-img-top" alt="Chicago River Visit during DoE CyberForce Hackathon">
-          <div class="card-body">
-            <h5 class="card-title">Chicago River Visit — DoE CyberForce Hackathon!</h5>
-            <p class="card-text">Exploring the iconic Chicago River with friends during the DoE-sponsored CyberForce Hackathon. Fun fact: Chicago is one of the few cities in the world that reversed the flow of its main river — an engineering feat completed in 1900 to protect its water supply!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/Exploring_Downtown_Chicago_during_Argonne_Training_Visit.JPG' | relative_url }}" class="card-img-top" alt="Exploring Downtown Chicago during Argonne Visit">
-          <div class="card-body">
-            <h5 class="card-title">Exploring Downtown Chicago!</h5>
-            <p class="card-text">Taking in the stunning skyline of Downtown Chicago during the Argonne Training visit. Fun fact: Chicago's "Loop" district gets its name from the elevated train tracks that literally loop around the city center — and it's home to the world's first skyscraper, built in 1885!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/Completed_Internship_at_Los_Alamos_National_Lab_had_fun_discussions_with_amazing_scientists_in_the_land_of_enchantment.jpg' | relative_url }}" class="card-img-top" alt="Internship at Los Alamos National Lab">
-          <div class="card-body">
-            <h5 class="card-title">Internship at Los Alamos National Lab!</h5>
-            <p class="card-text">Completed my internship at Los Alamos National Laboratory, enjoying rich discussions with brilliant scientists in the beautiful Land of Enchantment — New Mexico. LANL is legendary for its role in the Manhattan Project and continues to lead in national security science and supercomputing.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/Sushi_Night_with_Friends_after_completing_first_week_of_High_performance_computing_workshop.JPG' | relative_url }}" class="card-img-top" alt="Sushi Night after HPC Workshop Week One">
-          <div class="card-body">
-            <h5 class="card-title">Sushi Night after Week One of HPC Workshop!</h5>
-            <p class="card-text">Celebrating the completion of the first week of the High-Performance Computing workshop with friends over sushi in Chicago. Chicago's Randolph Street "Restaurant Row" is a foodie destination with some of the best sushi and diverse cuisine in the Midwest!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/Skydeck_Tour_with_Friends_visiting_the_tallest_building_in_chicago.jpg' | relative_url }}" class="card-img-top" alt="Skydeck Tour at Willis Tower Chicago">
-          <div class="card-body">
-            <h5 class="card-title">Skydeck Tour at the Willis Tower!</h5>
-            <p class="card-text">Taking in breathtaking views from the Skydeck at Willis Tower — once the world's tallest building — with friends during the Chicago visit. Fun fact: the Skydeck's glass-floored ledge sits 1,353 feet above the ground, giving you a literal bird's-eye view of four states on a clear day!</p>
           </div>
         </div>
       </div>
