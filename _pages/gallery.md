@@ -273,6 +273,16 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Skydeck_Tour_with_Friends_visiting_the_tallest_building_in_chicago.jpg' | relative_url }}" class="card-img-top" alt="Skydeck Tour at Willis Tower Chicago">
+          <div class="card-body">
+            <h5 class="card-title">Skydeck Tour at the Willis Tower!</h5>
+            <p class="card-text">Taking in breathtaking views from the Skydeck at Willis Tower — once the world's tallest building — with friends during the Chicago visit. Fun fact: the Skydeck's glass-floored ledge sits 1,353 feet above the ground, giving you a literal bird's-eye view of four states on a clear day!</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
