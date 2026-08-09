@@ -2,7 +2,7 @@
 layout: page
 permalink: /gallery/
 title: Gallery
-description: Fun moments and social activities with my research group and fellow graduate students at Georgia Tech.
+description: Fun moments and social activities with my research group and fellow graduate students at Georgia Tech, National Labs, and Conferences.
 nav: true
 nav_order: 4
 ---
