@@ -75,36 +75,6 @@ nav_order: 4
 
       <div class="col">
         <div class="card h-100">
-          <img src="{{ '/assets/img/Prof_Rabab.jpg' | relative_url }}" class="card-img-top" alt="Prof. Rabab Haider Talk">
-          <div class="card-body">
-            <h5 class="card-title">AI4OPT Reunion!</h5>
-            <p class="card-text">Great to see former AI4OPT Energy division postdoc Prof. Rabab Haider, now an Assistant Professor at the University of Michigan, present on fast algorithms for large-scale optimization in renewable-rich power systems. Inspiring to see her journey!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/E-board_with_Oko_Buckle.JPEG' | relative_url }}" class="card-img-top" alt="Ghana Independence Event">
-          <div class="card-body">
-            <h5 class="card-title">Ghana Independence Night 2026 at GT!</h5>
-            <p class="card-text">A great night of teachings and networking at the GT-hosted Ghanaian independence event in 2026! Awesome hearing from keynote speaker Mr. Oko Buckle, Senior VP and General Manager (Southeast U.S.) at Burns and McDonnell.</p>
-          </div>
-        </div>
-      </div>
-
-            <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/karaoke.jpg' | relative_url }}" class="card-img-top" alt="Collaborative Karaoke Event">
-          <div class="card-body">
-            <h5 class="card-title">Karaoke Night!</h5>
-            <p class="card-text">Fall 2025 collaborative karaoke event bringing together students from Ethiopian & Eritrean, Ghanaian, African, African-American, and Caribbean student associations. Music truly brings everyone together!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
           <img src="{{ '/assets/img/Back_in_Chicago_for_an_Argonne_Lab_Training_fun_siteseeing_with_friends.JPG' | relative_url }}" class="card-img-top" alt="Sightseeing in Chicago during Argonne Training">
           <div class="card-body">
             <h5 class="card-title">Back in Chicago for Argonne Training!</h5>
@@ -159,6 +129,36 @@ nav_order: 4
           <div class="card-body">
             <h5 class="card-title">Internship at Los Alamos National Lab!</h5>
             <p class="card-text">Wrapping up my internship at Los Alamos National Laboratory with great conversations and memories from the Land of Enchantment, New Mexico.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Prof_Rabab.jpg' | relative_url }}" class="card-img-top" alt="Prof. Rabab Haider Talk">
+          <div class="card-body">
+            <h5 class="card-title">AI4OPT Reunion!</h5>
+            <p class="card-text">Great to see former AI4OPT Energy division postdoc Prof. Rabab Haider, now an Assistant Professor at the University of Michigan, present on fast algorithms for large-scale optimization in renewable-rich power systems. Inspiring to see her journey!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/E-board_with_Oko_Buckle.JPEG' | relative_url }}" class="card-img-top" alt="Ghana Independence Event">
+          <div class="card-body">
+            <h5 class="card-title">Ghana Independence Night 2026 at GT!</h5>
+            <p class="card-text">A great night of teachings and networking at the GT-hosted Ghanaian independence event in 2026! Awesome hearing from keynote speaker Mr. Oko Buckle, Senior VP and General Manager (Southeast U.S.) at Burns and McDonnell.</p>
+          </div>
+        </div>
+      </div>
+
+            <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/karaoke.jpg' | relative_url }}" class="card-img-top" alt="Collaborative Karaoke Event">
+          <div class="card-body">
+            <h5 class="card-title">Karaoke Night!</h5>
+            <p class="card-text">Fall 2025 collaborative karaoke event bringing together students from Ethiopian & Eritrean, Ghanaian, African, African-American, and Caribbean student associations. Music truly brings everyone together!</p>
           </div>
         </div>
       </div>
