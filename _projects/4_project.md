@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rising Star Award at Georgia Tech Up With The White and Gold
+title: "Georgia Tech's 'Rising Star Award' 2026 — Up With The White and Gold"
 institution: Georgia Institute of Technology, Atlanta, GA
 description: Awarded Rising Star Award for contributions to Georgia Tech community
 img: assets/img/Rising.jpg
