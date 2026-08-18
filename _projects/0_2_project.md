@@ -6,7 +6,7 @@ date: Nov 2025
 description: Educational power systems visualization tool
 img: /assets/img/MPB_3boards.jpg
 redirect: /assets/pdf/MPowerBoards_Power_Systems_Visual.pdf
-importance: 4
+importance: 0.0662
 category: Institutional Newsletters
 ---
 
