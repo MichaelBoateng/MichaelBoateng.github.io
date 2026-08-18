@@ -4,7 +4,7 @@ title: MPower Boards - Empowering Power Grid Education and Research
 institution: Georgia Institute of Technology
 date: Nov 2025
 description: Educational power systems visualization tool
-img: /assets/img/mpb_copy.jpg
+img: /assets/img/MPB_3boards.jpg
 redirect: /assets/pdf/MPowerBoards_Power_Systems_Visual.pdf
 importance: 4
 category: Institutional Newsletters
