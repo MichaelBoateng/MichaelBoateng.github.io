@@ -5,7 +5,7 @@ institution: Georgia Institute of Technology
 date: Nov 2025
 description: Educational power systems visualization tool
 img: /assets/img/MPB_3boards.jpg
-redirect: /assets/pdf/MPowerBoards_Power_Systems_Visual.pdf
+redirect: https://michaelboateng.github.io/mpowerboards/
 importance: 0.0662
 category: Institutional Newsletters
 ---
