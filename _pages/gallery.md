@@ -283,6 +283,66 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/PowerUp_PACR_poster.jpg' | relative_url }}" class="card-img-top" alt="PowerUp Conference PACR Poster Presentation">
+          <div class="card-body">
+            <h5 class="card-title">Presenting PACR at the PowerUp Conference!</h5>
+            <p class="card-text">Presented our PACR research — an AC restoration ML pipeline for DCOPF — to colleagues, professors, industry professionals, and national laboratory researchers at the PowerUp Conference.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/CUBoulder_power_conference.jpg' | relative_url }}" class="card-img-top" alt="Power Systems Conference at CU Boulder">
+          <div class="card-body">
+            <h5 class="card-title">Power Systems Conference at CU Boulder!</h5>
+            <p class="card-text">Attended a power systems conference at CU Boulder and got to explore the beautiful campus — even if they beat Georgia Tech 14-13 the week before!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/CreateX_logo_completion.jpg' | relative_url }}" class="card-img-top" alt="Posing with Create-X Logo after Program Completion">
+          <div class="card-body">
+            <h5 class="card-title">Completed the Create-X Startup Launchpad!</h5>
+            <p class="card-text">Wrapped up the Create-X Startup Launchpad program at Georgia Tech — an incredible journey from idea to a working product with a real team!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/CreateX_demo_day_booth.jpg' | relative_url }}" class="card-img-top" alt="Create-X Demo Day Booth Setup">
+          <div class="card-body">
+            <h5 class="card-title">Create-X Demo Day: MPower Boards Goes Live!</h5>
+            <p class="card-text">Set up our booth at the Create-X Demo Day to showcase MPower Boards — a hands-on power systems platform for visualizing and physically implementing real power grid topologies.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/MPowerBoards_team.jpg' | relative_url }}" class="card-img-top" alt="MPower Boards Team with Three Flagship Boards">
+          <div class="card-body">
+            <h5 class="card-title">Team MPower Boards — Three Flagship Boards!</h5>
+            <p class="card-text">The MPower Boards team posing with our three flagship boards, each modeled after real system operators covering the entire United States and Canada.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/CreateX_demo_day_investors.jpg' | relative_url }}" class="card-img-top" alt="Speaking with Students and Investors at Create-X Demo Day">
+          <div class="card-body">
+            <h5 class="card-title">Engaging Students and Investors at Create-X Demo Day!</h5>
+            <p class="card-text">Great conversations with students, faculty, and investors at the Create-X Demo Day — sharing our vision for making power grid education more hands-on and accessible.</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
