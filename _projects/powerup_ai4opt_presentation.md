@@ -6,7 +6,7 @@ date: 2026-09-01
 description: The AI Institute for Advances in Optimization team presented our latest research at the PowerUp conference hosted at CU Boulder — showcasing advances in AI-driven optimization for power systems.
 img: assets/img/PowerUP_POST.jpg
 redirect: https://lnkd.in/p/gMKYc5pW
-importance: 0.0691
+importance: 0.0811
 category: Institutional Newsletters
 ---
 
