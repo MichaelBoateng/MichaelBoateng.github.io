@@ -69,7 +69,7 @@
     {% when 'email_secondary' %}
       <a href="mailto:{{ social[1] | encode_email }}" title="Secondary Email"><i class="fa-solid fa-square-rss"></i></a>
     {% when 'email_tertiary' %}
-      <a href="mailto:{{ social[1] | encode_email }}" title="Tertiary Email"><i class="fa-solid fa-envelope-open"></i></a>
+      {% comment %}tertiary email shown on CV page only, not in social ribbon{% endcomment %}
     {% when 'scholar_userid' %}
       <a href="https://scholar.google.com/citations?user={{ social[1] }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     {% when 'scopus_id' %}
