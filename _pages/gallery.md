@@ -343,6 +343,36 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/GSA_troika.jpg' | relative_url }}" class="card-img-top" alt="GSA Troika: President, EVP, and Chief of Staff">
+          <div class="card-body">
+            <h5 class="card-title">The Grad SGA Troika — President, EVP, and Chief of Staff!</h5>
+            <p class="card-text">A quick snap with Rosie Kim (President) and Jaime Gonzalez Hodar (Executive Vice President) — the three of us leading the Georgia Tech Graduate Student Government Association Executive Branch for 2026–2027.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Tech_Tower_photoshoot.jpg' | relative_url }}" class="card-img-top" alt="Photoshoot in front of GT's Tech Tower">
+          <div class="card-body">
+            <h5 class="card-title">Photoshoot at Georgia Tech's Iconic Tech Tower!</h5>
+            <p class="card-text">Striking a pose in front of Tech Tower — Georgia Tech's most recognizable landmark. Fun fact: the "T" in "TECH" has been stolen by students multiple times since it was first installed, becoming one of the most beloved traditions on campus!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/GSA_executive_cabinet_2026.jpg' | relative_url }}" class="card-img-top" alt="Grad SGA Executive Cabinet 2026-2027">
+          <div class="card-body">
+            <h5 class="card-title">Grad SGA Executive Cabinet 2026–2027!</h5>
+            <p class="card-text">Group photo with the full Grad SGA Executive Cabinet — the Presidency and Committee Vice Presidents for Communications, Conference Funds, Events, Student Life, and Academic Affairs, all working together to represent Georgia Tech's graduate student body.</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
