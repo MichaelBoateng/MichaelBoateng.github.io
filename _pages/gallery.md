@@ -373,6 +373,36 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Book_Launch_group_photo.jpg' | relative_url }}" class="card-img-top" alt="Group Photo at The Impact Principles Book Launch">
+          <div class="card-body">
+            <h5 class="card-title">The Impact Principles Book Launch!</h5>
+            <p class="card-text">Group photo at the official unveiling of The Impact Principles — a book that teaches professionals how to communicate value in a world where hard work alone shouldn't be the only tool in your arsenal for success.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Book_Launch_speech.jpg' | relative_url }}" class="card-img-top" alt="Book Review Speech at The Impact Principles Launch">
+          <div class="card-body">
+            <h5 class="card-title">Invited to Give a Book Review Speech!</h5>
+            <p class="card-text">Honored to be invited to give a book review speech at the launch of a friend's book, The Impact Principles, gathered with academics and working professionals for an inspiring evening.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/SGA_dinner_cypress_street.jpg' | relative_url }}" class="card-img-top" alt="Student Government Dinner at Cypress Street Pin and Plate">
+          <div class="card-body">
+            <h5 class="card-title">Student Government Dinner Night!</h5>
+            <p class="card-text">A fun dinner night with GT Student Government leaders from both Grad and Undergrad at Cypress Street Pin and Plate. Great to connect with the broader GT student leadership community!</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
