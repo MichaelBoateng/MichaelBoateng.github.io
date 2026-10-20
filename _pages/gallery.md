@@ -375,7 +375,7 @@ nav_order: 4
 
       <div class="col">
         <div class="card h-100">
-          <img src="{{ '/assets/img/new_impact_principles_2nd_figure.jpg' | relative_url }}" class="card-img-top" alt="Group Photo at The Impact Principles Book Launch">
+          <img src="{{ '/assets/img/new_impact_principles_2nd_figure.jpg' | relative_url }}" class="card-img-top" alt="Group Photo at The Impact Principles Book Launch" style="object-position: 75% center;">
           <div class="card-body">
             <h5 class="card-title">The Impact Principles Book Launch!</h5>
             <p class="card-text">Group photo at the official unveiling of The Impact Principles — a book that teaches professionals how to communicate value in a world where hard work alone shouldn't be the only tool in your arsenal for success.</p>
