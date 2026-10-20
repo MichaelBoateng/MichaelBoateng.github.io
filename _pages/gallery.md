@@ -385,7 +385,7 @@ nav_order: 4
 
       <div class="col">
         <div class="card h-100">
-          <img src="{{ '/assets/img/Book_Launch_speech.jpg' | relative_url }}" class="card-img-top" alt="Book Review Speech at The Impact Principles Launch">
+          <img src="{{ '/assets/img/new_impact_principles_2nd_figure.jpg' | relative_url }}" class="card-img-top" alt="Book Review Speech at The Impact Principles Launch">
           <div class="card-body">
             <h5 class="card-title">Invited to Give a Book Review Speech!</h5>
             <p class="card-text">Honored to be invited to give a book review speech at the launch of a friend's book, The Impact Principles, gathered with academics and working professionals for an inspiring evening.</p>
