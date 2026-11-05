@@ -6,7 +6,7 @@ date: 2026-08-01
 description: The Argonne Extreme-Scale Computing Workshop (ATPESC) provides intensive hands-on experience with supercomputers and AI, hosted by the Argonne Leadership Computing Facility.
 img: assets/img/ATPESC_2026.jpg
 redirect: https://extremecomputingtraining.anl.gov/2026-participants
-importance: 0.0665
+importance: 8
 category: Institutional Newsletters
 ---
 
