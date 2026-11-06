@@ -6,7 +6,7 @@ date: 2026-09-01
 description: Featured in Georgia Tech ECE News — covering our team's research on power grids and the adventures that came with it in Chicago!
 img: assets/img/power_grid_and_deep_dish.jpg
 redirect: https://ece.gatech.edu/news/2026/09/power-grids-and-deep-dish-pizza-and-bears-oh-my
-importance: 0.06601
+importance: 0.06621
 category: Institutional Newsletters
 ---
 
