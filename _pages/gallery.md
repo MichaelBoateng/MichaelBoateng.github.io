@@ -403,6 +403,36 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/kennesaw_hike_grad_students.jpg' | relative_url }}" class="card-img-top" alt="Hiking at Kennesaw Mountain National Battlefield Park">
+          <div class="card-body">
+            <h5 class="card-title">Kennesaw Mountain Hike with Grad Students!</h5>
+            <p class="card-text">A fun day out at Kennesaw Mountain National Battlefield Park with fellow grad students — exploring the Civil War museum and battlefield exhibits before hitting the trails through the scenic Georgia landscape.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/kennesaw_peak_summit.jpg' | relative_url }}" class="card-img-top" alt="Shoe shot at the summit of Kennesaw Mountain">
+          <div class="card-body">
+            <h5 class="card-title">Made It to the Top — Official Peak!</h5>
+            <p class="card-text">The classic summit shoe shot — proof we made it to the official peak of Kennesaw Mountain! A well-earned view after tackling the trail with the crew.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/gtcf_dinner_johns_creek.jpg' | relative_url }}" class="card-img-top" alt="Thanksgiving Dinner with Georgia Tech Christian Fellowship in Johns Creek">
+          <div class="card-body">
+            <h5 class="card-title">Dinner & Thanksgiving with GT Christian Fellowship!</h5>
+            <p class="card-text">A warm evening at Dr. Michael's home in Johns Creek, Atlanta, with members of the Georgia Tech Christian Fellowship — great food, great company, and a wonderful Thanksgiving celebration with our community!</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
