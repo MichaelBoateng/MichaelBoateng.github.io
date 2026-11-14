@@ -405,6 +405,66 @@ nav_order: 4
 
       <div class="col">
         <div class="card h-100">
+          <img src="{{ '/assets/img/birthday_party_painted_duck.jpg' | relative_url }}" class="card-img-top" alt="Birthday Party and MSc Graduation Celebration at The Painted Duck">
+          <div class="card-body">
+            <h5 class="card-title">Birthday & MSc Graduation Celebration!</h5>
+            <p class="card-text">Celebrating my Georgia Tech MSc graduation with fellow grad students at The Painted Duck in Atlanta — great food, axe throwing, and even better company to mark the milestone!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/los_alamos_oppenheimer_house.jpg' | relative_url }}" class="card-img-top" alt="Tour of Oppenheimer House in Los Alamos">
+          <div class="card-body">
+            <h5 class="card-title">Visiting Oppenheimer's House in Los Alamos!</h5>
+            <p class="card-text">A tour of J. Robert Oppenheimer's historic home on Bathtub Row in Los Alamos — where the father of the atomic bomb lived during the Manhattan Project. His vintage car out front made it even cooler!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/gt_vs_mercer_football_2026.jpg' | relative_url }}" class="card-img-top" alt="Georgia Tech vs Mercer Football Game at Bobby Dodd Stadium">
+          <div class="card-body">
+            <h5 class="card-title">Georgia Tech Crushes Mercer 44–11!</h5>
+            <p class="card-text">Catching the Georgia Tech vs. Mercer football game at Bobby Dodd Stadium on September 19, 2026 — GT dominated 44–11! Bobby Dodd Stadium sits right in the heart of campus and is one of the few stadiums in the country without a running track around the field, putting fans incredibly close to the action.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/hard_rock_cafe_miami.jpg' | relative_url }}" class="card-img-top" alt="Visiting Hard Rock Cafe in Miami with Grad Students">
+          <div class="card-body">
+            <h5 class="card-title">Hard Rock Cafe Miami Road Trip!</h5>
+            <p class="card-text">A super fun road trip down to Miami with grad students, stopping at the iconic Hard Rock Cafe. The original Hard Rock was founded in London in 1971, and the Miami location is one of its most visited globally!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/lanl_distinguished_award_symposium.jpg' | relative_url }}" class="card-img-top" alt="Winning LANL Distinguished Student Award at Annual Symposium">
+          <div class="card-body">
+            <h5 class="card-title">LANL Distinguished Student Award!</h5>
+            <p class="card-text">Honored to receive the Los Alamos National Laboratory Distinguished Student Award at the annual symposium in New Mexico — 1 of only 8 recipients selected across the entire laboratory. Truly humbling!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/grad_students_biweekly_lunch.jpg' | relative_url }}" class="card-img-top" alt="Grad Students Biweekly Lunch during Exam Period">
+          <div class="card-body">
+            <h5 class="card-title">Biweekly Lunch During Exam Season!</h5>
+            <p class="card-text">Even during the busiest exam periods, the grad student crew makes time for our biweekly lunch get-togethers. Good food and good laughs are the best study break!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
           <img src="{{ '/assets/img/kennesaw_hike_grad_students.jpg' | relative_url }}" class="card-img-top" alt="Hiking at Kennesaw Mountain National Battlefield Park" style="object-position: 35% center;">
           <div class="card-body">
             <h5 class="card-title">Kennesaw Mountain Hike with Grad Students!</h5>
