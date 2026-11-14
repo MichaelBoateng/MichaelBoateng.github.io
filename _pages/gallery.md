@@ -445,7 +445,7 @@ nav_order: 4
 
       <div class="col">
         <div class="card h-100">
-          <img src="{{ '/assets/img/lanl_distinguished_award_symposium.jpg' | relative_url }}" class="card-img-top" alt="Winning LANL Distinguished Student Award at Annual Symposium" style="object-position: 20% center;">
+          <img src="{{ '/assets/img/lanl_distinguished_award_symposium.jpg' | relative_url }}" class="card-img-top" alt="Winning LANL Distinguished Student Award at Annual Symposium" style="object-position: 10% center;">
           <div class="card-body">
             <h5 class="card-title">LANL Distinguished Student Award!</h5>
             <p class="card-text">Honored to receive the Los Alamos National Laboratory Distinguished Student Award at the annual symposium in New Mexico — 1 of only 8 recipients selected across the entire laboratory. Truly humbling!</p>
