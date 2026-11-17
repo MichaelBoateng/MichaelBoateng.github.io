@@ -37,7 +37,7 @@ nav_order: 4
           <img src="{{ '/assets/img/phd_proposal_friends_support.jpg' | relative_url }}" class="card-img-top" alt="Group photo with friends after PhD Proposal">
           <div class="card-body">
             <h5 class="card-title">Thank You for the Support!</h5>
-            <p class="card-text">Group photo with the amazing friends who showed up to cheer me on during my PhD proposal. The journey is never a solo one — grateful for every bit of encouragement along the way!</p>
+            <p class="card-text">Group photo with some amazing friends who showed up to cheer me on during my PhD proposal. The journey is never a solo one — grateful for every bit of encouragement along the way!</p>
           </div>
         </div>
       </div>
