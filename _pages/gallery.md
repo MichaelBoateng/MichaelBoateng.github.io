@@ -14,6 +14,36 @@ nav_order: 4
       
       <div class="col">
         <div class="card h-100">
+          <img src="{{ '/assets/img/phd_proposal_before_oral.jpg' | relative_url }}" class="card-img-top" alt="Minutes before PhD Proposal Oral Presentation">
+          <div class="card-body">
+            <h5 class="card-title">Minutes Away from My PhD Proposal!</h5>
+            <p class="card-text">The calm before the storm — just minutes away from my oral PhD proposal presentation on <em>Scalable Optimization Methods for AC Feasibility Restoration of DC Power Flow-Based Dispatch</em> at Georgia Tech, September 2026. Deep breaths!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/phd_proposal_ece_board.jpg' | relative_url }}" class="card-img-top" alt="After Successful PhD Proposal in front of ECE Department Display Board">
+          <div class="card-body">
+            <h5 class="card-title">PhD Proposal — Passed!</h5>
+            <p class="card-text">Standing in front of the Georgia Tech ECE Department display board after successfully defending my PhD proposal! Approved by my committee — Profs. Van Hentenryck, Molzahn, Crozier, and Meliopoulos — in September 2026. One giant step closer to the finish line!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/phd_proposal_friends_support.jpg' | relative_url }}" class="card-img-top" alt="Group photo with friends after PhD Proposal">
+          <div class="card-body">
+            <h5 class="card-title">Thank You for the Support!</h5>
+            <p class="card-text">Group photo with the amazing friends who showed up to cheer me on during my PhD proposal. The journey is never a solo one — grateful for every bit of encouragement along the way!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
           <img src="{{ '/assets/img/christmas_party_playing_the_othello_game.jpg' | relative_url }}" class="card-img-top" alt="Game Night">
           <div class="card-body">
             <h5 class="card-title">Game Night!</h5>
@@ -399,36 +429,6 @@ nav_order: 4
           <div class="card-body">
             <h5 class="card-title">Student Government Dinner Night!</h5>
             <p class="card-text">A fun dinner night with GT Student Government leaders from both Grad and Undergrad at Cypress Street Pin and Plate. Great to connect with the broader GT student leadership community!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/phd_proposal_before_oral.jpg' | relative_url }}" class="card-img-top" alt="Minutes before PhD Proposal Oral Presentation">
-          <div class="card-body">
-            <h5 class="card-title">Minutes Away from My PhD Proposal!</h5>
-            <p class="card-text">The calm before the storm — just minutes away from my oral PhD proposal presentation on <em>Scalable Optimization Methods for AC Feasibility Restoration of DC Power Flow-Based Dispatch</em> at Georgia Tech, September 2026. Deep breaths!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/phd_proposal_ece_board.jpg' | relative_url }}" class="card-img-top" alt="After Successful PhD Proposal in front of ECE Department Display Board">
-          <div class="card-body">
-            <h5 class="card-title">PhD Proposal — Passed!</h5>
-            <p class="card-text">Standing in front of the Georgia Tech ECE Department display board after successfully defending my PhD proposal! Approved by my committee — Profs. Van Hentenryck, Molzahn, Crozier, and Meliopoulos — in September 2026. One giant step closer to the finish line!</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="{{ '/assets/img/phd_proposal_friends_support.jpg' | relative_url }}" class="card-img-top" alt="Group photo with friends after PhD Proposal">
-          <div class="card-body">
-            <h5 class="card-title">Thank You for the Support!</h5>
-            <p class="card-text">Group photo with the amazing friends who showed up to cheer me on during my PhD proposal. The journey is never a solo one — grateful for every bit of encouragement along the way!</p>
           </div>
         </div>
       </div>
