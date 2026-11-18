@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Electrical and Computer Engineering, PhD Student | Georgia Tech
+subtitle: Electrical and Computer Engineering, PhD Candidate | Georgia Tech
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Electrical and Computer Engineering at [Georgia Tech](https://www.gatech.edu/), which is [ranked amongst the best engineering school in the U.S.](https://www.usnews.com/best-graduate-schools/top-engineering-schools/georgia-institute-of-technology-02049) I work as a Graduate Research Assistant in the Energy Division of the [AI Institute for Advances in Optimization (AI4OPT)](https://www.ai4opt.org/ai-energy), where I apply artificial intelligence and optimization techniques to enhance power grid reliability and efficiency.
+I am a Ph.D. candidate in Electrical and Computer Engineering at [Georgia Tech](https://www.gatech.edu/), which is [ranked amongst the best engineering school in the U.S.](https://www.usnews.com/best-graduate-schools/top-engineering-schools/georgia-institute-of-technology-02049) I work as a Graduate Research Assistant in the Energy Division of the [AI Institute for Advances in Optimization (AI4OPT)](https://www.ai4opt.org/ai-energy), where I apply artificial intelligence and optimization techniques to enhance power grid reliability and efficiency.
 
 My research focuses on developing novel machine learning approaches for Security-Constrained AC Optimal Power Flow (AC SCOPF), AC power flow feasibility restoration, and Volt/VAR optimization in large-scale transmission networks. I am supervised by [Prof. Pascal Van Hentenryck](https://www.isye.gatech.edu/users/pascal-van-hentenryck) and [Prof. Daniel Molzahn](https://molzahn.github.io/index.html) at Georgia Tech, with additional mentorship from [Dr. Russell Bent](https://scholar.google.com/citations?user=DPvklMcAAAAJ&hl=en) at [Los Alamos National Laboratory (LANL)](https://www.lanl.gov/) and [Prof. Parikshit Pareek](https://psquare-lab.github.io/) at IIT Roorkee.
 
