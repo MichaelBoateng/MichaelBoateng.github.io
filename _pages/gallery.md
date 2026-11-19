@@ -523,6 +523,16 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/ura_ieee_panel.jpg' | relative_url }}" class="card-img-top" alt="URA and Georgia Tech IEEE Student Branch Research Panel">
+          <div class="card-body">
+            <h5 class="card-title">PhD Student Rep at URA × GT IEEE Research Panel!</h5>
+            <p class="card-text">Served as the PhD student representative at a collaborative panel organized by the Undergraduate Research Ambassadors (URA) and the Georgia Tech IEEE Student Branch. The event brought together undergraduate and graduate researchers to help students explore on-campus research, VIP, GTRI, ORS, and PhD opportunities — covering how to find faculty, build technical skills, balance research with academics, and understand the value of research for graduate school and industry careers.</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
