@@ -525,6 +525,26 @@ nav_order: 4
 
       <div class="col">
         <div class="card h-100">
+          <img src="{{ '/assets/img/ura_panel_vip_ors_2.jpg' | relative_url }}" class="card-img-top" alt="VIP Program discussion at URA x GT IEEE Panel">
+          <div class="card-body">
+            <h5 class="card-title">Discussing the VIP Program!</h5>
+            <p class="card-text">Part of a panel discussion on Georgia Tech's Vertically Integrated Projects (VIP) Program — where multidisciplinary student teams from sophomore to graduate level work on long-term faculty research, gaining leadership and real-world technical experience.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/ura_panel_vip_ors_3.jpg' | relative_url }}" class="card-img-top" alt="ORS Program discussion at URA x GT IEEE Panel">
+          <div class="card-body">
+            <h5 class="card-title">Discussing the ORS Program!</h5>
+            <p class="card-text">Talking about the Opportunity Research Scholars (ORS) Program — an enrichment initiative for ECE undergraduates at Georgia Tech that helps students explore research applications beyond the classroom curriculum and reach their full academic potential.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
           <img src="{{ '/assets/img/ura_ieee_panel.jpg' | relative_url }}" class="card-img-top" alt="URA and Georgia Tech IEEE Student Branch Research Panel">
           <div class="card-body">
             <h5 class="card-title">PhD Student Rep at URA × GT IEEE Research Panel!</h5>
