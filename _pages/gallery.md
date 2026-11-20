@@ -553,6 +553,16 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/Quantum_talk.jpeg' | relative_url }}" class="card-img-top" alt="PhD Thesis Defense on Quantum Computing and Unit Commitment">
+          <div class="card-body">
+            <h5 class="card-title">Quantum Computing Meets Power Grids — Lab Thesis Defense!</h5>
+            <p class="card-text">Attending the PhD thesis defense of my AI4OPT labmate Rosemary Barrass — combining quantum computing with advanced decomposition methods to tackle the Unit Commitment problem for combined-cycle generators in today's volatile, large-scale grid. Incredible work!</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
