@@ -563,6 +563,16 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/AD_SGA.jpg' | relative_url }}" class="card-img-top" alt="Grad SGA visit to Georgia Tech Athletics Fanning Center">
+          <div class="card-body">
+            <h5 class="card-title">Grad SGA Meets Georgia Tech Athletics!</h5>
+            <p class="card-text">Representing Grad SGA at the Thomas A. Fanning Student Athlete Performance Center — a great visit with the Georgia Tech Athletics Department, capped off with an invite to the Athletic Director's tailgate ahead of the final home football game of the season!</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
