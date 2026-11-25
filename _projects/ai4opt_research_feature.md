@@ -6,7 +6,7 @@ date: 2026-11-01
 description: Featured by the AI Institute for Advances in Optimization for taking research from campus to national laboratories and launching a startup.
 img: assets/img/ai4opt_research_feature.jpg
 redirect: https://www.ai4opt.org/news-events/michael-boateng-takes-research-campus-national-labs-and-startup
-importance: 0.06625
+importance: 0.04
 category: Institutional Newsletters
 ---
 
