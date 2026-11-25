@@ -565,20 +565,20 @@ nav_order: 4
 
       <div class="col">
         <div class="card h-100">
-          <img src="{{ '/assets/img/AD_SGA.jpg' | relative_url }}" class="card-img-top" alt="Grad SGA visit to Georgia Tech Athletics Fanning Center">
+          <img src="{{ '/assets/img/grad_game_night_thanksgiving_2026.jpg' | relative_url }}" class="card-img-top" alt="Grad Student Game Night before Thanksgiving 2026">
           <div class="card-body">
-            <h5 class="card-title">Grad SGA Meets Georgia Tech Athletics!</h5>
-            <p class="card-text">Representing Grad SGA at the Thomas A. Fanning Student Athlete Performance Center — a great visit with the Georgia Tech Athletics Department, capped off with an invite to the Athletic Director's tailgate ahead of the final home football game of the season!</p>
+            <h5 class="card-title">Game Night Before Thanksgiving!</h5>
+            <p class="card-text">Wrapping up fall 2026 with a grad student game night — Thanksgiving vibes in the air, great company, and the perfect way to unwind before the holiday break!</p>
           </div>
         </div>
       </div>
 
       <div class="col">
         <div class="card h-100">
-          <img src="{{ '/assets/img/grad_game_night_thanksgiving_2026.jpg' | relative_url }}" class="card-img-top" alt="Grad Student Game Night before Thanksgiving 2026">
+          <img src="{{ '/assets/img/AD_SGA.jpg' | relative_url }}" class="card-img-top" alt="Grad SGA visit to Georgia Tech Athletics Fanning Center">
           <div class="card-body">
-            <h5 class="card-title">Game Night Before Thanksgiving!</h5>
-            <p class="card-text">Wrapping up fall 2026 with a grad student game night — Thanksgiving vibes in the air, great company, and the perfect way to unwind before the holiday break!</p>
+            <h5 class="card-title">Grad SGA Meets Georgia Tech Athletics!</h5>
+            <p class="card-text">Representing Grad SGA at the Thomas A. Fanning Student Athlete Performance Center — a great visit with the Georgia Tech Athletics Department, capped off with an invite to the Athletic Director's tailgate ahead of the final home football game of the season!</p>
           </div>
         </div>
       </div>
