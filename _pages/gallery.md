@@ -573,6 +573,16 @@ nav_order: 4
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ '/assets/img/grad_game_night_thanksgiving_2026.jpg' | relative_url }}" class="card-img-top" alt="Grad Student Game Night before Thanksgiving 2026">
+          <div class="card-body">
+            <h5 class="card-title">Game Night Before Thanksgiving!</h5>
+            <p class="card-text">Wrapping up fall 2026 with a grad student game night — Thanksgiving vibes in the air, great company, and the perfect way to unwind before the holiday break!</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
